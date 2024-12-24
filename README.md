@@ -6,7 +6,7 @@ My name is **Maurice** and I’m a passionate Plugin Developer from **Germany**.
 
 - 🌱 I’m learning **Java**, **Kotlin** and **TypeScript**
 
-- 🔭 Currently working on **CuteCraft.net**
+- 🔭 Currently working on [CuteCraft.net](https://github.com/CuteCraft-Network)
 
 ### Connect with me through Discord: [tamikaschu](https://discord.com/users/462561018611105802)
 
