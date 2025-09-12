@@ -1,12 +1,14 @@
 ### Huhu 👋
 
-My name is **Maurice** and I’m a passionate Plugin Developer from **Germany**.
+My name is **Maurice** and I’m a Full Stack Developer from **Germany**.
 
 <hr></hr>
 
-- 🌱 I’m learning **Java**, **Kotlin** and **TypeScript**
+- ☕ **Java** and **Kotlin** enthusiast
 
-- 🔭 Currently working on [CuteCraft.net](https://github.com/CuteCraft-Network)
+- 🌱 I’m learning **C#** and **TypeScript**
+
+- 🔭 Currently working on [CuteCraft.net](https://github.com/CuteCraft-Network) as Head of Development
 
 ### Connect with me through Discord: [tamikaschu](https://discord.com/users/462561018611105802)
 
