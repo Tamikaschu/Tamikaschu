@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="485px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key { fill: #f4b8e4; }     
+.value { fill: #8caaee; }     
+text, tspan { white-space: pre; }
+</style>
+<rect width="985px" height="485px" fill="#303446" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">&gt; fastfetch</tspan>
+
+<tspan x="15" y="70">               @@@@@@@               </tspan>
+<tspan x="15" y="90">          @@@@@@@@@@@@@@@@@@          </tspan>
+<tspan x="15" y="110">       @@@@@@@@@@@@@@@@@@@@@@@        </tspan>
+<tspan x="15" y="130">     @@@@@@@@@@@@@@@@@@@@@@@@@@@      </tspan>
+<tspan x="15" y="150">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="170">  @@@@@@     @@@@@@@@@@@@@    @@@@@   </tspan>
+<tspan x="15" y="190"> @@@@@@@                      @@@@@@@ </tspan>
+<tspan x="15" y="210">@@@@@@@                        @@@@@@@</tspan>
+<tspan x="15" y="230">@@@@@@                          @@@@@@</tspan>
+<tspan x="15" y="250">@@@@@@                          @@@@@@</tspan>
+<tspan x="15" y="270">@@@@@@                          @@@@@@</tspan>
+<tspan x="15" y="290">@@@@@@                          @@@@@@</tspan>
+<tspan x="15" y="310">@@@@@@@                        @@@@@@@</tspan>
+<tspan x="15" y="330">@@@@@@@                        @@@@@@@</tspan>
+<tspan x="15" y="350"> @@@@@@@                      @@@@@@@ </tspan>
+<tspan x="15" y="370">  @@@@@@@@@                @@@@@@@@@  </tspan>
+<tspan x="15" y="390">   @@@@@  @@@@@@@      @@@@@@@@@@@@   </tspan>
+<tspan x="15" y="410">    @@@@@  @@@@@        @@@@@@@@@@    </tspan>
+<tspan x="15" y="430">      @@@@              @@@@@@@@      </tspan>
+<tspan x="15" y="450">        @@@@@@@        @@@@@@@        </tspan>
+
+</text>
+  <text x="400" y="50" fill="#a5adce">
+  <tspan x="390" y="50">╭────────────────────── tamikaschu ─────────────────────╮</tspan>
+  <tspan x="410" y="70"  class="key">OS                      </tspan><tspan class="value">Windows 11, macOS, Arch Linux</tspan>
+  <tspan x="410" y="90"  class="key">Uptime                                       </tspan><tspan class="value" id="age_data">20 years</tspan>
+  <tspan x="410" y="110" class="key">Host                                    </tspan><tspan class="value">DHBW Mannheim</tspan>
+  <tspan x="410" y="130" class="key">Kernel                       </tspan><tspan class="value">Applied Computer Science</tspan>
+  <tspan x="410" y="150" class="key">Editor                  </tspan><tspan class="value">Neovim, VSCode, IntelliJ IDEA</tspan>
+
+  <tspan x="410" y="190" class="key">Languages</tspan>.<tspan class="key">Programming     </tspan><tspan class="value">Kotlin, Java, Typescript, C</tspan>
+  <tspan x="410" y="210" class="key">Languages</tspan>.<tspan class="key">Real                        </tspan><tspan class="value">English, German</tspan>
+
+  <tspan x="410" y="250" class="key">Hobbies               </tspan><tspan class="value">Minecraft Plugins, Discord bots</tspan>
+  <tspan x="410" y="270" class="key">Interests                          </tspan><tspan class="value">Cloud technologies</tspan>
+  <tspan x="390" y="290">╰───────────────────────────────────────────────────────╯</tspan>
+
+  <tspan x="390" y="330">╭─────────────────────── Contact ───────────────────────╮</tspan>
+  <tspan x="410" y="350" class="key">Email                           </tspan><tspan class="value">maurice@cutecraft.net</tspan>
+  <tspan x="410" y="370" class="key">GitHub                          </tspan><tspan class="value">github.com/Tamikaschu</tspan>
+  <tspan x="410" y="390" class="key">Discord                                    </tspan><tspan class="value">tamikaschu</tspan>
+  <tspan x="390" y="410">╰───────────────────────────────────────────────────────╯</tspan>
+</text>
+
+<g transform="translate(390 430)" shape-rendering="crispEdges"> 
+  <rect x="0" y="0" width="20" height="20" fill="#51576d"/> 
+  <rect x="20" y="0" width="20" height="20" fill="#e78284"/> 
+  <rect x="40" y="0" width="20" height="20" fill="#a6d189"/> 
+  <rect x="60" y="0" width="20" height="20" fill="#e5c890"/> 
+  <rect x="80" y="0" width="20" height="20" fill="#8caaee"/> 
+  <rect x="100" y="0" width="20" height="20" fill="#f4b8e4"/> 
+  <rect x="120" y="0" width="20" height="20" fill="#81c8be"/> 
+  <rect x="140" y="0" width="20" height="20" fill="#a5adce"/>
+ 
+  <rect x="0" y="20" width="20" height="20" fill="#626880"/> 
+  <rect x="20" y="20" width="20" height="20" fill="#e78284"/> 
+  <rect x="40" y="20" width="20" height="20" fill="#a6d189"/> 
+  <rect x="60" y="20" width="20" height="20" fill="#e5c890"/> 
+  <rect x="80" y="20" width="20" height="20" fill="#8caaee"/> 
+  <rect x="100" y="20" width="20" height="20" fill="#f4b8e4"/>
+  <rect x="120" y="20" width="20" height="20" fill="#81c8be"/>
+<rect x="140" y="20" width="20" height="20" fill="#b5bfe2"/> 
+</g>
+
+</svg>
