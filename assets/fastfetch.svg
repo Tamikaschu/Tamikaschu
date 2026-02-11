@@ -35,7 +35,7 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="390">   @@@@@  @@@@@@@      @@@@@@@@@@@@   </tspan>
 <tspan x="15" y="410">    @@@@@  @@@@@        @@@@@@@@@@    </tspan>
 <tspan x="15" y="430">      @@@@              @@@@@@@@      </tspan>
-<tspan x="15" y="450">        @@@@@@@        @@@@@@@        </tspan>
+<tspan x="15" y="450">        @@@@@@@@        @@@@@@        </tspan>
 
 </text>
   <text x="400" y="50" fill="#a5adce">
